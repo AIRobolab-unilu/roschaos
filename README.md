@@ -6,7 +6,7 @@ Audit and test security vulnerabilities or simply wreak chaos upon your ROS syst
 Navigate to `<catkin_ws>/src`
 
 ```
-git clone https://github.com/CiaranHagen/roschaos
+git clone https://github.com/AIRobolab-unilu/roschaos
 cd ..
 catkin_make
 . devel/setup.bash
